@@ -1,0 +1,16 @@
+.heading
+{
+	color : #4ABAE4;
+}
+.btn,.btn:hover
+{
+	color : #ffffff;
+	background-color : #3257A8;
+}
+.preference
+{
+	border-style: solid;
+	border-color: #0f0f0f;
+	border-radius: 15px;
+}
+
